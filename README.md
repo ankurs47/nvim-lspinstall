@@ -82,6 +82,7 @@ end
 | latex       | texlab                                                                      |
 | lua         | (sumneko) lua-language-server                                               |
 | php         | intelephense                                                                |
+| prisma      | prisma-language-server                                                      |
 | puppet      | puppet-editor-services                                                      |
 | purescript  | purescript-language-server                                                  |
 | python      | pyright-langserver                                                          |
@@ -94,6 +95,7 @@ end
 | vim         | vim-language-server                                                         |
 | vue         | vls (vetur)                                                                 |
 | yaml        | yaml-language-server                                                        |
+| zig         | zls                                                                         |
 
 | Name        | Description                                                                 |
 |-------------|-----------------------------------------------------------------------------|

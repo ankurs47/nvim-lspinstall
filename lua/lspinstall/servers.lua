@@ -24,6 +24,7 @@ local servers = {
   ["latex"] = require'lspinstall/servers/latex',
   ["lua"] = require'lspinstall/servers/lua',
   ["php"] = require'lspinstall/servers/php',
+  ["prismals"] = require'lspinstall/servers/prismals',
   ["puppet"] = require'lspinstall/servers/puppet',
   ["purescript"] = require'lspinstall/servers/purescript',
   ["python"] = require'lspinstall/servers/python',
@@ -37,6 +38,7 @@ local servers = {
   ["vim"] = require'lspinstall/servers/vim',
   ["vue"] = require'lspinstall/servers/vue',
   ["yaml"] = require'lspinstall/servers/yaml',
+  ["zig"] = require'lspinstall/servers/zig',
 }
 
 return servers
